@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "name": "Old Broker",
+    "balance": 1000,
+    "stocks": [
+      {
+        "id": 1,
+        "prices": [
+          {
+            "date": "2022-10-10",
+            "price": 20
+          },
+          {
+            "date": "2022-10-11",
+            "price": 20
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "prices": []
+      },
+      {
+        "id": 3,
+        "prices": []
+      },
+      {
+        "id": 4,
+        "prices": []
+      },
+      {
+        "id": 5,
+        "prices": []
+      },
+      {
+        "id": 6,
+        "prices": []
+      },
+      {
+        "id": 7,
+        "prices": []
+      },
+      {
+        "id": 8,
+        "prices": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Young Broker",
+    "balance": 100,
+    "stocks": [
+      {
+        "id": 1,
+        "prices": []
+      },
+      {
+        "id": 2,
+        "prices": []
+      },
+      {
+        "id": 3,
+        "prices": []
+      },
+      {
+        "id": 4,
+        "prices": []
+      },
+      {
+        "id": 5,
+        "prices": []
+      },
+      {
+        "id": 6,
+        "prices": []
+      },
+      {
+        "id": 7,
+        "prices": []
+      },
+      {
+        "id": 8,
+        "prices": []
+      }
+    ]
+  }
+]
